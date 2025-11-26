@@ -37,13 +37,13 @@ ZyrahWear/<br>
 │   ├── routes/         # API Routes<br>
 │   ├── controllers/    # Request Handlers<br>
 │   └── server.js       # App entry point<br>
-│
+│<br>
 │── frontend/           # Frontend (React.js)<br>
 │   ├── src/components/ # UI Components<br>
 │   ├── src/pages/      # Pages<br>
 │   ├── src/context/    # Context API for state management<br>
 │   └── App.js          # Main React App<br>
-│
+│<br>
 └── README.md
 
 1️⃣ Install dependencies
