@@ -31,18 +31,18 @@ Backend:Node.js, Express.js, MongoDB + MongooseJWT Authentication
 Razorpay API (Payments)
 
 Folder Structure:
-ZyrahWear/
-│── backend/            # Backend (Node.js + Express API)
-│   ├── models/         # Mongoose Models
-│   ├── routes/         # API Routes
-│   ├── controllers/    # Request Handlers
-│   └── server.js       # App entry point
+ZyrahWear/<br>
+│── backend/            # Backend (Node.js + Express API)<br>
+│   ├── models/         # Mongoose Models<br>
+│   ├── routes/         # API Routes<br>
+│   ├── controllers/    # Request Handlers<br>
+│   └── server.js       # App entry point<br>
 │
-│── frontend/           # Frontend (React.js)
-│   ├── src/components/ # UI Components
-│   ├── src/pages/      # Pages
-│   ├── src/context/    # Context API for state management
-│   └── App.js          # Main React App
+│── frontend/           # Frontend (React.js)<br>
+│   ├── src/components/ # UI Components<br>
+│   ├── src/pages/      # Pages<br>
+│   ├── src/context/    # Context API for state management<br>
+│   └── App.js          # Main React App<br>
 │
 └── README.md
 
